@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore other common clutter
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.pkl
+*.log
