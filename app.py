@@ -5,8 +5,7 @@ import matplotlib.pyplot as plt
 st.title("🧠 Mental Health & Sentiment Analysis Dashboard")
 
 # Load the CSV
-df = pd.read_csv("data/tweets_sentiments_dataset.csv")
-print(df.head())
+df = pd.read_csv("/Mental_Health_X/Mental_Health_Twitter/tweets_sentiments_dataset.csv")
 
 # Mental health pie chart
 st.subheader("Mental Health Classification")
