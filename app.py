@@ -5,7 +5,7 @@ import seaborn as sns
 
 st.set_page_config(layout="wide")  # Enable full-width layout
 
-st.title(" Mental Health & Sentiment Analysis Dashboard")
+st.title("Twitter Mental Health & Sentiment Analysis Dashboard")
 
 # Load the CSV
 df = pd.read_csv("/Mental_Health_X/Mental_Health_Twitter/data/tweets_sentiments_dataset.csv")  # Adjust path as needed
