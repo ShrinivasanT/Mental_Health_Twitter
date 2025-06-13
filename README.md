@@ -2,7 +2,7 @@
 
 This project analyzes Twitter data to detect sentiment and potential signs of mental health distress using machine learning and NLP techniques. It aims to highlight patterns in emotional expression and raise awareness of mental health in online communities.
 
- **Live Demo**: [Click to Open App](https://mental-health-analyzer.streamlit.app)
+ **Live Demo**: [Click to Open App](https://mentalhealthtwitter.streamlit.app/)
 
 ---
 
