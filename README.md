@@ -2,11 +2,11 @@
 
 This project analyzes Twitter data to detect sentiment and potential signs of mental health distress using machine learning and NLP techniques. It aims to highlight patterns in emotional expression and raise awareness of mental health in online communities.
 
-![Dashboard]([https://your-screenshot-link-if-any](https://mentalhealthtwitter.streamlit.app/))
+ **Live Demo**: [Click to Open App](https://mental-health-analyzer.streamlit.app)
 
 ---
 
-## 📌 Features
+##  Features
 
 - ✅ Preprocess and clean tweet datasets
 - ✅ Sentiment analysis (Positive / Negative / Neutral)
@@ -17,7 +17,7 @@ This project analyzes Twitter data to detect sentiment and potential signs of me
 
 ---
 
-## 📂 Dataset Used
+##  Dataset Used
 
 1. [`Mental-Health-Twitter`](https://www.kaggle.com/datasets)  
 2. `tweets_pulled.csv` (custom)
@@ -26,7 +26,7 @@ The combined dataset was preprocessed, cleaned (removing mentions, hashtags, lin
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Pandas**, **Matplotlib**, **Seaborn**
@@ -35,7 +35,7 @@ The combined dataset was preprocessed, cleaned (removing mentions, hashtags, lin
 
 ---
 
-## 🧪 Model & Classification Logic
+##  Model & Classification Logic
 
 - **Sentiment Analysis:** Vader based sentiment analysis
 - **Mental Health Classifier:** Rule-based keyword filtering
