@@ -8,7 +8,7 @@ st.set_page_config(layout="wide")  # Enable full-width layout
 st.title("Twitter Mental Health & Sentiment Analysis Dashboard")
 
 # Load the CSV
-df = pd.read_csv("/Mental_Health_X/Mental_Health_Twitter/data/tweets_sentiments_dataset.csv")  # Adjust path as needed
+df = pd.read_csv("data/tweets_sentiments_dataset.csv")  # Adjust path as needed
 
 # Dataset Overview Section
 st.subheader("📄 Dataset Overview")
